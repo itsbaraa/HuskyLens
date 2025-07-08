@@ -8,7 +8,7 @@ A project that goes through the steps on how to connect and use Huskylens with A
 - **Arduino Uno**
 
 ## Wiring
-| Arduino Pin   | Component              | Description                          |
+| Arduino       | HuskyLens              | Description                          |
 |---------------|------------------------|--------------------------------------|
 | 5V            | HuskyLens VCC          | Powers the HuskyLens                 |
 | GND           | HuskyLens GND          | Ground connection                    |
