@@ -2,19 +2,22 @@
 
 A project that goes through the steps on how to connect and use Huskylens with Arduino.
 
-## Hardware Setup
+## Components
 
 - **HuskyLens**
 - **Arduino Uno**
-- **Wiring:**
-  - **HuskyLens VCC** → **Arduino 5V**
-  - **HuskyLens GND** → **Arduino GND**
-  - **HuskyLens TX (Blue wire)** → **Arduino Pin 11 (RX)**
-  - **HuskyLens RX (Green wire)** → **Arduino Pin 10 (TX)**
+
+## Wiring
+| Arduino Pin   | Component              | Description                          |
+|---------------|------------------------|--------------------------------------|
+| 5V            | HuskyLens VCC          | Powers the HuskyLens                 |
+| GND           | HuskyLens GND          | Ground connection                    |
+| Pin 11 (RX)   | HuskyLens TX (Blue)    | Receives data from the HuskyLens     |
+| Pin 10 (TX)   | HuskyLens RX (Green)   | Sends data to the HuskyLens          |
 
 ## Steps
 
-1. **Install the Arduino IDE**  
+1. **Install Arduino IDE**  
 
 2. **Download the HuskyLens Arduino Library**  
    📥 Get it from the official repository:  
