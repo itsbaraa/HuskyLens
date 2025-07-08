@@ -10,8 +10,8 @@ A project that goes through the steps on how to connect and use Huskylens with A
 ## Wiring
 | Arduino       | HuskyLens              | Description                          |
 |---------------|------------------------|--------------------------------------|
-| 5V            | HuskyLens VCC          | Powers the HuskyLens                 |
-| GND           | HuskyLens GND          | Ground connection                    |
+| 5V            | HuskyLens VCC (Red)    | Powers the HuskyLens                 |
+| GND           | HuskyLens GND (Black)  | Ground connection                    |
 | Pin 11 (RX)   | HuskyLens TX (Blue)    | Receives data from the HuskyLens     |
 | Pin 10 (TX)   | HuskyLens RX (Green)   | Sends data to the HuskyLens          |
 
