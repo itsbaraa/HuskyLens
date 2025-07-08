@@ -4,7 +4,7 @@ A project that goes through the steps on how to connect and use Huskylens with A
 
 ## Hardware Setup
 
-- **HuskyLens** powered from Arduino **5V**
+- **HuskyLens**
 - **Arduino Uno**
 - **Wiring:**
   - **HuskyLens VCC** → **Arduino 5V**
