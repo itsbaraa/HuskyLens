@@ -17,9 +17,9 @@ A project that goes through the steps on how to connect and use Huskylens with A
 - Arduino IDE
 - HuskyLens Arduino Library  
   📥 [Download & install instructions](https://github.com/HuskyLens/HUSKYLENSArduino)
-- Go to **File** → **Examples** → **HUSKYLENS** → **HUSKYLENS_GET_STARTED**
+- To test your setup go to **File** → **Examples** → **HUSKYLENS** → **HUSKYLENS_GET_STARTED**
+- To read the output of the Huskylens go to 
 - You can now use Huskylens with Arduino
 
 ## Showcase
 https://github.com/user-attachments/assets/f4320a71-fd39-43ec-aadc-86e4fa31daa8
-
