@@ -21,3 +21,5 @@ A project that goes through the steps on how to connect and use Huskylens with A
 - You can now use Huskylens with Arduino
 
 ## Showcase
+https://github.com/user-attachments/assets/f4320a71-fd39-43ec-aadc-86e4fa31daa8
+
